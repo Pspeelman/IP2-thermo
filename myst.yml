@@ -31,3 +31,4 @@ project:
 
 extends:
   - https://raw.githubusercontent.com/Contemporary-Physicslab/assets/refs/heads/main/style.yml
+  - https://github.com/Pspeelman/IP2-thermo
